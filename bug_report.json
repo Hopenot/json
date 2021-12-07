@@ -1,1 +1,6 @@
-
+{
+  "Title":"Title of bug report",
+ "Steps to reproduce":"Steps to reproduce",
+ "Expected result":"Expected result",
+ "Actual result":"Actual result"
+}
