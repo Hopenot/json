@@ -1,0 +1,9 @@
+{"Name":"Darya",
+"Surname":"Yermola";
+"age":32,
+"pets":{"type":"cat",
+	"amount":2,
+	"name":"Ava"
+}
+"salary":1500
+}
